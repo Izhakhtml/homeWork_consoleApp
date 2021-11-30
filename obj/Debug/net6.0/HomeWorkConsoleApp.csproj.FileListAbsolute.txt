@@ -1,0 +1,15 @@
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\obj\Debug\net6.0\HomeWorkConsoleApp.csproj.AssemblyReference.cache
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\obj\Debug\net6.0\HomeWorkConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\obj\Debug\net6.0\HomeWorkConsoleApp.AssemblyInfoInputs.cache
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\obj\Debug\net6.0\HomeWorkConsoleApp.AssemblyInfo.cs
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\obj\Debug\net6.0\HomeWorkConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\bin\Debug\net6.0\HomeWorkConsoleApp.exe
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\bin\Debug\net6.0\HomeWorkConsoleApp.deps.json
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\bin\Debug\net6.0\HomeWorkConsoleApp.runtimeconfig.json
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\bin\Debug\net6.0\HomeWorkConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\bin\Debug\net6.0\ref\HomeWorkConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\bin\Debug\net6.0\HomeWorkConsoleApp.pdb
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\obj\Debug\net6.0\HomeWorkConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\obj\Debug\net6.0\ref\HomeWorkConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\obj\Debug\net6.0\HomeWorkConsoleApp.pdb
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\HomeWorkConsoleApp\obj\Debug\net6.0\HomeWorkConsoleApp.genruntimeconfig.cache
